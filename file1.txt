@@ -1,2 +1,12 @@
 this is my file one for git course
 Note: commit message must write in "Present Imperative" format like add file3 file 
+
+To create new branch
+git branch <newBranchName>
+    or
+git checkout -b <newBranchName>
+
+To switch between to branch
+git branch <branchName>
+    or
+git checkout <branchName>
