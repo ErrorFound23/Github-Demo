@@ -10,3 +10,6 @@ To switch between to branch
 git branch <branchName>
     or
 git checkout <branchName>
+
+To create and switch a new branch
+git switch -c <newBranchName>
