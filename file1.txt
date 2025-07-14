@@ -1,1 +1,2 @@
 this is my file one for git course
+Note: commit message must write in "Present Imperative" format like add file3 file 
