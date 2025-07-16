@@ -18,3 +18,4 @@ To rename existing branch
 git branch -M <newBranchName>
 
 2025 is coming.
+another stash message
