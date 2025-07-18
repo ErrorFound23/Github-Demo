@@ -1,3 +1,23 @@
 this is my file one for git course
 Note: commit message must write in "Present Imperative" format like add file3 file 
-2024 is coming.
+
+To create new branch
+git branch <newBranchName>
+    or
+git checkout -b <newBranchName>
+
+To switch between branchies
+git branch <branchName>
+    or
+git checkout <branchName>
+
+To create and switch a new branch
+git switch -c <newBranchName>
+
+To rename existing branch
+git branch -M <newBranchName>
+
+2025 is coming.
+another stash message
+pinkmode added successfully
+purplemode added successfully
